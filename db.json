@@ -1,0 +1,42 @@
+[
+  "user": [
+    {
+      "id": 0,
+      "name": "Elon",
+      "alias": "Muks",
+      "email": "elon@gmail.com"
+    },
+    {
+      "id": 1,
+       "name": "Mark",
+      "alias": "Zucaritas",
+      "email": "mark@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "John",
+      "alias": "Von",
+      "email": "von@yahoo.com"
+    },
+    {
+      "id": 3,
+      "name": "Carl",
+      "alias": "Sagan",
+      "email": "carl@hotmail.com"
+    }
+  ],
+  posts: [
+    {
+      "id": 1,
+      "title": "Post 1"
+    },
+    {
+      "id": 2,
+      "title": "Post 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3"
+    }
+  ]
+]
